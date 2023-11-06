@@ -37,13 +37,17 @@
   z-index: 1;
 }
 
+body {
+  background-color: rgba(0, 255, 255, 0.671);
+  /*background-color: #d6dbf562;*/
+}
 
 .main {
-  height: 200vh;
+  height: auto;
   display: grid;
   place-items: center;
   width: 100%;
-  background-color: #d6dbf562;
+  padding-bottom: 2em;
 }
 
 .start-container {
@@ -270,10 +274,10 @@ hr {
   text-align: center;
   top: -2px;
   border-radius: 6px;
-  background: #d6dbf5d0;
+  background: #5d616452;
   font-family: 'Roboto', sans-serif;
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   color: #293264;
   transition: transform 0.1s ease-in-out;
 }
@@ -318,7 +322,7 @@ hr {
 }
 
 .loading-spinner {
-  height: 100%;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -354,4 +358,5 @@ hr {
     text-align: center;
     top: -2px;
   }
+
 }
