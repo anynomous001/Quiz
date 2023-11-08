@@ -38,8 +38,8 @@
 }
 
 body {
-  background-color: rgba(0, 255, 255, 0.671);
-  /*background-color: #d6dbf562;*/
+  /* background-color: rgba(0, 255, 255, 0.671);*/
+  background-color: #d6dbf58a;
 }
 
 .main {
