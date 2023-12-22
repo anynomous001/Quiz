@@ -24,13 +24,27 @@ Live Link  - https://spectacular-kataifi-8d603e.netlify.app/
 - **vite:** ^4.4.5
   - Fast, opinionated web dev build tool.
 
+Apart from this [Open trivia Database](https://opentdb.com/) API is used for fetching all the question-answers.
 
 
 Installation or Getting Started
-Provide code examples and explanations of how to get the project, e.g.,
+Provide code examples and explanations of how to get the project, e.g.
+
 <pre>
-```git clone https://github.com/Jasonnor/README.md.git
+[git repo clone anynomous001/Quiz](https://github.com/anynomous001/Quiz.git)
 cd README.md
 npm install README.md
-npm start```
+npm start
 </pre>
+
+
+**Usage**
+
+Open the live link, and select your preferred domain with difficulty level.
+now you can play the Quiz and then check your score by clicking the check answer button. If you want to play again then press play again. And that's it.
+
+
+**Contributors**
+
+Although I am the only contributor to this project. Bence Fekete helped me optimize the code many times with so many code examples and I learned a lot while working on this project.
+
